@@ -9,7 +9,7 @@ while True:
         os.system("pip install img2pdf")
     else:
         break
-
+os.system("clear")
 
 class Scraper:
     def __init__(self):
